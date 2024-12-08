@@ -1,0 +1,51 @@
+1. Sum of Natural Numbers: Write a program to calculate the sum of the first N natural numbers.    ✅
+
+2. Factorial Calculation: Write a program to find the factorial of a given number.    ✅
+
+3. Fibonacci Sequence: Write a program to generate the first N terms of the Fibonacci sequence.    ✅
+
+4. Prime Number Check: Write a program to check whether a given number is prime or not.    ✅
+
+5. Sum of Digits: Write a program to calculate the sum of the digits of a given number.    ✅
+
+6. Reverse a Number: Write a program to reverse a given number.    ✅
+
+7. GCD Calculation: Write a program to find the greatest common divisor (GCD) of two given numbers.    ✅
+
+8. LCM Calculation: Write a program to find the least common multiple (LCM) of two given numbers.
+
+9. Armstrong Number Check: Write a program to check whether a given number is an Armstrong number.    ✅
+
+10. Palindrome Check: Write a program to check whether a given number is a palindrome.    ✅
+
+11. Perfect Number Check: Write a program to check whether a given number is a perfect number.    ✅
+
+12. Sum of Even Numbers: Write a program to calculate the sum of all even numbers up to a given number N.    ✅
+
+13. Sum of Odd Numbers: Write a program to calculate the sum of all odd numbers up to a given number N.    ✅
+
+14. Square Root Calculation: Write a program to calculate the square root of a given number using the Babylonian method.
+
+15. Exponentiation: Write a program to calculate the result of raising a number to a given power.
+
+16. Harmonic Series Sum: Write a program to calculate the sum of the first N terms of the harmonic series.
+
+17. Decimal to Binary Conversion: Write a program to convert a given decimal number to its binary equivalent.
+
+18. Binary to Decimal Conversion: Write a program to convert a given binary number to its decimal equivalent.
+
+19. Trigonometric Functions: Write a program to calculate the sine, cosine, and tangent of a given angle.    ✅
+
+20. Logarithm Calculation: Write a program to calculate the natural logarithm of a given number.    ✅
+
+21. Combination Calculation: Write a program to calculate the number of combinations (nCr) for given values of n and r.
+
+22. Pascal's Triangle: Write a program to print the first N rows of Pascal's triangle.
+
+23. Matrix Addition: Write a program to perform addition of two matrices.
+
+24. Matrix Multiplication: Write a program to perform multiplication of two matrices.
+
+25. Quadratic Equation Roots: Write a program to find the roots of a quadratic equation.    ✅
+
+These problems cover a range of mathematical concepts and are suitable for beginners to practice and improve their C programming skills.

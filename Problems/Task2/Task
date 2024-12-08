@@ -1,0 +1,26 @@
+1. Write a C program to declare, initialize, and print the elements of an integer array.    ✅
+2. Write a C program to input and display elements of an array.    ✅
+3. Write a C program to find the sum of all elements in an array.    ✅
+4. Write a C program to find the average of all elements in an array.    ✅
+5. Write a C program to find the maximum and minimum element in an array.    ✅
+6. Write a C program to count the number of even and odd elements in an array.    ✅
+7. Write a C program to reverse the elements of an array.    ✅
+8. Write a C program to copy elements from one array to another.
+9. Write a C program to insert an element at a specific position in an array.
+10. Write a C program to delete an element from a specific position in an array.
+11. Write a C program to find the second largest element in an array.
+12. Write a C program to count the number of occurrences of a specific element in an array.
+13. Write a C program to merge two arrays into a third array.
+14. Write a C program to find the common elements between two arrays.
+15. Write a C program to find the unique elements in an array.
+16. Write a C program to sort an array in ascending order using bubble sort.
+17. Write a C program to sort an array in descending order using selection sort.
+18. Write a C program to perform binary search on a sorted array.
+19. Write a C program to find the frequency of each element in an array.
+20. Write a C program to find the missing number in a given array of 1 to N.
+21. Write a C program to find the intersection of two arrays.
+22. Write a C program to find the union of two arrays.
+23. Write a C program to rotate an array to the right by a specified number of positions.
+24. Write a C program to split an array into two parts.
+25. Write a C program to find the sum of elements on the diagonal of a 2D array.
+26. Write a C program to find the common elements in an array.
